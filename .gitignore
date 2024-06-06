@@ -1,0 +1,18 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Arquivos e pastas gerados pelo IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Pasta de saída
+/out/
+/target/
+
+# Outros arquivos e pastas comuns a ignorar
+*.log
+*.tmp
+*.bak
+
